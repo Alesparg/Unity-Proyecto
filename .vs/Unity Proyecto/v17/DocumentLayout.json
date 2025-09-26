@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Progresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Progresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\perfiljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\perfiljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Perfiljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Perfiljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Puzzles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Puzzles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Coleccionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Coleccionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\WorkingHeartSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WorkingHeartSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\herir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\herir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\hudcrotroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\hudcrotroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\heratsystm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\heratsystm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\autosalto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\autosalto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\salto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\salto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "player.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\player.cs",
+              "RelativeDocumentMoniker": "Assets\\player.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\player.cs",
+              "RelativeToolTip": "Assets\\player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T17:45:43.465Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "perfiljugador.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\perfiljugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\perfiljugador.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\perfiljugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\perfiljugador.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:13:18.867Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Perfiljugador.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Perfiljugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Perfiljugador.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Perfiljugador.cs",
+              "RelativeToolTip": "Assets\\Perfiljugador.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:12:14.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Progresion.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Progresion.cs",
+              "RelativeDocumentMoniker": "Assets\\Progresion.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Progresion.cs",
+              "RelativeToolTip": "Assets\\Progresion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:10:13.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Puzzles.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Puzzles.cs",
+              "RelativeDocumentMoniker": "Assets\\Puzzles.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Puzzles.cs",
+              "RelativeToolTip": "Assets\\Puzzles.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAUwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:08:48.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coleccionar.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Coleccionar.cs",
+              "RelativeDocumentMoniker": "Assets\\Coleccionar.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Coleccionar.cs",
+              "RelativeToolTip": "Assets\\Coleccionar.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:07:23.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkingHeartSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\WorkingHeartSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\WorkingHeartSetup.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\WorkingHeartSetup.cs",
+              "RelativeToolTip": "Assets\\WorkingHeartSetup.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T21:33:28.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "heratsystm.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\heratsystm.cs",
+              "RelativeDocumentMoniker": "Assets\\heratsystm.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\heratsystm.cs",
+              "RelativeToolTip": "Assets\\heratsystm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:38:32.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hudcrotroler.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\hudcrotroler.cs",
+              "RelativeDocumentMoniker": "Assets\\hudcrotroler.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\hudcrotroler.cs",
+              "RelativeToolTip": "Assets\\hudcrotroler.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:02:24.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gameevents.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Gameevents.cs",
+              "RelativeDocumentMoniker": "Assets\\Gameevents.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Gameevents.cs",
+              "RelativeToolTip": "Assets\\Gameevents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:07:58.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Jugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Jugador.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Jugador.cs",
+              "RelativeToolTip": "Assets\\Jugador.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:09:14.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "autosalto.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\autosalto.cs",
+              "RelativeDocumentMoniker": "Assets\\autosalto.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\autosalto.cs",
+              "RelativeToolTip": "Assets\\autosalto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:37:46.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "herir.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\herir.cs",
+              "RelativeDocumentMoniker": "Assets\\herir.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\herir.cs",
+              "RelativeToolTip": "Assets\\herir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:09:33.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "gamemanager.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\gamemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\gamemanager.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\gamemanager.cs",
+              "RelativeToolTip": "Assets\\gamemanager.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:09:42.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "salto.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\salto.cs",
+              "RelativeDocumentMoniker": "Assets\\salto.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\salto.cs",
+              "RelativeToolTip": "Assets\\salto.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T18:00:30.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\movimiento.cs",
+              "RelativeDocumentMoniker": "Assets\\movimiento.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\movimiento.cs",
+              "RelativeToolTip": "Assets\\movimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T17:26:08.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
