@@ -11,11 +11,11 @@ public class Vidas : MonoBehaviour
     {
         vida += puntos;
         Debug.Log("Vida actual: " + vida);
-        
+
         // Si pierde vida, quitar un corazón
         if (puntos < 0)
         {
-            WorkingHeartSystem heartSystem = FindObjectOfType<WorkingHeartSystem>();
+            HeartSystemManager heartSystem = Object.FindFirstObjectByType<HeartSystemManager>();
             if (heartSystem != null)
             {
                 heartSystem.LoseHeart();
@@ -23,7 +23,7 @@ public class Vidas : MonoBehaviour
             }
             else
             {
-                Debug.LogError("No se encontró WorkingHeartSystem!");
+                Debug.LogError("❌ No se encontró HeartSystemManager!");
             }
         }
     }
@@ -44,3 +44,4 @@ public class Vidas : MonoBehaviour
         }
     }
 }
+

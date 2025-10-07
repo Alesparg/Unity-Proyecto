@@ -3,16 +3,128 @@
   "WorkspaceRootPath": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\BalasHerir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BalasHerir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\herir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\herir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\ObjectPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ObjectPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\GeneradorObejetosWhitPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GeneradorObejetosWhitPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\Proyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Proyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\ProyectilRecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ProyectilRecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\WorkingHeartSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WorkingHeartSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\AutoMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AutoMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\JefeFinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\JefeFinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorDiaNoche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\spawners\\GeneradorDiaNoche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\Light2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\spawners\\Light2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObjetoAleatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\spawners\\GeneradorObjetoAleatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\spawners\\GeneradorObjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObjetosLoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\spawners\\GeneradorObjetosLoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObejetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\spawners\\GeneradorObejetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObjetosAleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\spawners\\GeneradorObjetosAleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\GeneradorObjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GeneradorObjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\SimpleHeartSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SimpleHeartSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\WorkingHeartSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WorkingHeartSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\Vidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Vidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartVisualSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HeartVisualSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartVisualSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HeartVisualSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HeartSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartManualSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HeartManualSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\SimpleHeartSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SimpleHeartSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartTestFinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HeartTestFinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HeartTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartAutoSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HeartAutoSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Progresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Progresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\perfiljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\perfiljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Perfiljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Perfiljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Progresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Progresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Puzzles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,11 +186,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 40,
               "Title": "player.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\player.cs",
               "RelativeDocumentMoniker": "Assets\\player.cs",
@@ -91,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 29,
               "Title": "perfiljugador.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\perfiljugador.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\perfiljugador.cs",
@@ -100,45 +212,71 @@
               "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T17:13:18.867Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BalasHerir.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\BalasHerir.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BalasHerir.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\BalasHerir.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BalasHerir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:27:45.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Perfiljugador.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Perfiljugador.cs",
-              "RelativeDocumentMoniker": "Assets\\Perfiljugador.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Perfiljugador.cs",
-              "RelativeToolTip": "Assets\\Perfiljugador.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAUwDYAAAABAAAAAAAAAA==",
+              "Title": "herir.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\herir.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\herir.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\herir.cs",
+              "RelativeToolTip": "Assets\\Scripts\\herir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T17:12:14.592Z",
+              "WhenOpened": "2025-10-02T17:24:30.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Progresion.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Progresion.cs",
-              "RelativeDocumentMoniker": "Assets\\Progresion.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Progresion.cs",
-              "RelativeToolTip": "Assets\\Progresion.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwB4AAAABAAAAAAAAAA==",
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectPool.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectPool.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T17:10:13.254Z",
+              "WhenOpened": "2025-10-02T17:20:42.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Puzzles.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Puzzles.cs",
-              "RelativeDocumentMoniker": "Assets\\Puzzles.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Puzzles.cs",
-              "RelativeToolTip": "Assets\\Puzzles.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAUwGcAAAABAAAAAAAAAA==",
+              "Title": "GeneradorObejetosWhitPool.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\GeneradorObejetosWhitPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GeneradorObejetosWhitPool.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\GeneradorObejetosWhitPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GeneradorObejetosWhitPool.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T17:08:48.466Z",
+              "WhenOpened": "2025-10-02T17:19:40.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proyectil.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\Proyectil.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Proyectil.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\Proyectil.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Proyectil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:16:20.388Z",
               "EditorCaption": ""
             },
             {
@@ -147,7 +285,320 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "ProyectilRecto.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\ProyectilRecto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProyectilRecto.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\ProyectilRecto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProyectilRecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:13:02.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GeneradorObejetos.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObejetos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\spawners\\GeneradorObejetos.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObejetos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\spawners\\GeneradorObejetos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:33:00.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GeneradorObjetos.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObjetos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\spawners\\GeneradorObjetos.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObjetos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\spawners\\GeneradorObjetos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:14:59.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeneradorDiaNoche.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorDiaNoche.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\spawners\\GeneradorDiaNoche.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorDiaNoche.cs",
+              "RelativeToolTip": "Assets\\Scripts\\spawners\\GeneradorDiaNoche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:05:06.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkingHeartSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\WorkingHeartSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WorkingHeartSystem.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\WorkingHeartSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WorkingHeartSystem.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwEQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:29:21.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GeneradorObjetoAleatorio.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObjetoAleatorio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\spawners\\GeneradorObjetoAleatorio.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObjetoAleatorio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\spawners\\GeneradorObjetoAleatorio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:40:19.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Light2d.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\Light2d.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\spawners\\Light2d.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\Light2d.cs",
+              "RelativeToolTip": "Assets\\Scripts\\spawners\\Light2d.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:13:56.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JefeFinal.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\JefeFinal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JefeFinal.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\JefeFinal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JefeFinal.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:45:12.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoMove.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\AutoMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AutoMove.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\AutoMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AutoMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:46:20.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GeneradorObjetosAleatorios.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObjetosAleatorios.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\spawners\\GeneradorObjetosAleatorios.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObjetosAleatorios.cs",
+              "RelativeToolTip": "Assets\\Scripts\\spawners\\GeneradorObjetosAleatorios.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:03:45.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GeneradorObjetosLoop.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObjetosLoop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\spawners\\GeneradorObjetosLoop.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\spawners\\GeneradorObjetosLoop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\spawners\\GeneradorObjetosLoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:02:08.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GeneradorObjetos.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\GeneradorObjetos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GeneradorObjetos.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\GeneradorObjetos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GeneradorObjetos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:00:26.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SimpleHeartSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\SimpleHeartSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleHeartSystem.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\SimpleHeartSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimpleHeartSystem.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAwwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:27:07.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WorkingHeartSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\WorkingHeartSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WorkingHeartSetup.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\WorkingHeartSetup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WorkingHeartSetup.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:17:35.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Vidas.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\Vidas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Vidas.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\Vidas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Vidas.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:16:14.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HeartVisualSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartVisualSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeartVisualSystem.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartVisualSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeartVisualSystem.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:14:07.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HeartVisualSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartVisualSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeartVisualSetup.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartVisualSetup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeartVisualSetup.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:12:32.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HeartSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeartSystem.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeartSystem.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAwwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:10:01.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HeartManualSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartManualSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeartManualSetup.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartManualSetup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeartManualSetup.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:07:26.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SimpleHeartSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\SimpleHeartSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleHeartSetup.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\SimpleHeartSetup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimpleHeartSetup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:05:32.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HeartTestFinal.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartTestFinal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeartTestFinal.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartTestFinal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeartTestFinal.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:03:35.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HeartTest.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeartTest.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeartTest.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:01:41.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HeartAutoSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartAutoSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeartAutoSetup.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Scripts\\HeartAutoSetup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeartAutoSetup.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:58:52.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Perfiljugador.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Perfiljugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Perfiljugador.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Perfiljugador.cs",
+              "RelativeToolTip": "Assets\\Perfiljugador.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:12:14.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Progresion.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Progresion.cs",
+              "RelativeDocumentMoniker": "Assets\\Progresion.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Progresion.cs",
+              "RelativeToolTip": "Assets\\Progresion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:10:13.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Puzzles.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Puzzles.cs",
+              "RelativeDocumentMoniker": "Assets\\Puzzles.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Puzzles.cs",
+              "RelativeToolTip": "Assets\\Puzzles.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAUwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:08:48.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Coleccionar.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Coleccionar.cs",
               "RelativeDocumentMoniker": "Assets\\Coleccionar.cs",
@@ -155,12 +606,11 @@
               "RelativeToolTip": "Assets\\Coleccionar.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAUwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T17:07:23.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T17:07:23.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 33,
               "Title": "WorkingHeartSetup.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\WorkingHeartSetup.cs",
               "RelativeDocumentMoniker": "Assets\\WorkingHeartSetup.cs",
@@ -171,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 37,
               "Title": "heratsystm.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\heratsystm.cs",
               "RelativeDocumentMoniker": "Assets\\heratsystm.cs",
@@ -183,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 36,
               "Title": "hudcrotroler.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\hudcrotroler.cs",
               "RelativeDocumentMoniker": "Assets\\hudcrotroler.cs",
@@ -195,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 38,
               "Title": "Gameevents.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Gameevents.cs",
               "RelativeDocumentMoniker": "Assets\\Gameevents.cs",
@@ -207,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 35,
               "Title": "Jugador.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\Jugador.cs",
               "RelativeDocumentMoniker": "Assets\\Jugador.cs",
@@ -219,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 41,
               "Title": "autosalto.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\autosalto.cs",
               "RelativeDocumentMoniker": "Assets\\autosalto.cs",
@@ -231,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 34,
               "Title": "herir.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\herir.cs",
               "RelativeDocumentMoniker": "Assets\\herir.cs",
@@ -243,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 39,
               "Title": "gamemanager.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\gamemanager.cs",
               "RelativeDocumentMoniker": "Assets\\gamemanager.cs",
@@ -255,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 42,
               "Title": "salto.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\salto.cs",
               "RelativeDocumentMoniker": "Assets\\salto.cs",
@@ -267,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 43,
               "Title": "movimiento.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Unity Proyecto\\Assets\\movimiento.cs",
               "RelativeDocumentMoniker": "Assets\\movimiento.cs",

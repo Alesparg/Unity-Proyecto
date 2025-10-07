@@ -4,17 +4,17 @@ public class HeartVisualSetup : MonoBehaviour
 {
     [Header("Configuración Visual")]
     [SerializeField] private Sprite heartSprite; // Arrastra tu imagen corazon-removebg-preview.png aquí
-    
+
     void Start()
     {
         // Crear HeartVisualSystem si no existe
-        HeartVisualSystem heartSystem = FindObjectOfType<HeartVisualSystem>();
+        HeartVisualSystem heartSystem = Object.FindFirstObjectByType<HeartVisualSystem>();
         if (heartSystem == null)
         {
             GameObject heartSystemGO = new GameObject("HeartVisualSystem");
             heartSystem = heartSystemGO.AddComponent<HeartVisualSystem>();
         }
-        
+
         // Configurar el sprite
         if (heartSprite != null)
         {
@@ -23,13 +23,18 @@ public class HeartVisualSetup : MonoBehaviour
             if (spriteField != null)
             {
                 spriteField.SetValue(heartSystem, heartSprite);
-                Debug.Log("Sprite asignado: " + heartSprite.name);
+                Debug.Log("✅ Sprite asignado: " + heartSprite.name);
+            }
+            else
+            {
+                Debug.LogWarning("No se pudo asignar el sprite mediante reflexión.");
             }
         }
         else
         {
-            Debug.LogError("¡NO HAS ARRASTRADO LA IMAGEN DEL CORAZÓN!");
-            Debug.LogError("Arrastra tu imagen 'corazon-removebg-preview.png' al campo 'Heart Sprite'");
+            Debug.LogError("❌ ¡NO HAS ARRASTRADO LA IMAGEN DEL CORAZÓN!");
+            Debug.LogError("👉 Arrastra tu imagen 'corazon-removebg-preview.png' al campo 'Heart Sprite'");
         }
     }
 }
+
