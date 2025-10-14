@@ -4,17 +4,17 @@ public class HeartVisualSetup : MonoBehaviour
 {
     [Header("Configuración Visual")]
     [SerializeField] private Sprite heartSprite; // Arrastra tu imagen corazon-removebg-preview.png aquí
-    
+
     void Start()
     {
         // Crear HeartVisualSystem si no existe
-        HeartVisualSystem heartSystem = FindObjectOfType<HeartVisualSystem>();
+        HeartVisualSystem heartSystem = Object.FindFirstObjectByType<HeartVisualSystem>();
         if (heartSystem == null)
         {
             GameObject heartSystemGO = new GameObject("HeartVisualSystem");
             heartSystem = heartSystemGO.AddComponent<HeartVisualSystem>();
         }
-        
+
         // Configurar el sprite
         if (heartSprite != null)
         {
@@ -33,3 +33,4 @@ public class HeartVisualSetup : MonoBehaviour
         }
     }
 }
+

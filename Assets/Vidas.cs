@@ -6,16 +6,31 @@ public class Vidas : MonoBehaviour
 {
     [SerializeField] private float vida = 5f;
 
+    // Guardar referencia al sistema de corazones
+    private WorkingHeartSystem heartSystem;
+
+    void Awake()
+    {
+        // Buscar el sistema de corazones solo una vez
+        heartSystem = Object.FindFirstObjectByType<WorkingHeartSystem>();
+
+        // Si no existe, crearlo automáticamente
+        if (heartSystem == null)
+        {
+            GameObject go = new GameObject("WorkingHeartSystem");
+            heartSystem = go.AddComponent<WorkingHeartSystem>();
+        }
+    }
+
     // Método para modificar la vida
     public void ModificarVida(float puntos)
     {
         vida += puntos;
         Debug.Log("Vida actual: " + vida);
-        
+
         // Si pierde vida, quitar un corazón
         if (puntos < 0)
         {
-            WorkingHeartSystem heartSystem = FindObjectOfType<WorkingHeartSystem>();
             if (heartSystem != null)
             {
                 heartSystem.LoseHeart();
@@ -29,7 +44,7 @@ public class Vidas : MonoBehaviour
     }
 
     // Método para verificar si el personaje sigue vivo
-    private bool EstasVivo()
+    public bool EstasVivo()
     {
         return vida > 0;
     }
@@ -40,7 +55,9 @@ public class Vidas : MonoBehaviour
         if (collision.gameObject.CompareTag("meta"))
         {
             Debug.Log("¡GANASTE!");
-            return;
         }
     }
 }
+
+
+

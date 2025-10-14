@@ -4,10 +4,10 @@ public class HeartTest : MonoBehaviour
 {
     void Update()
     {
-        // Presiona L para perder un corazón
+        
         if (Input.GetKeyDown(KeyCode.L))
         {
-            HeartSystem heartSystem = FindObjectOfType<HeartSystem>();
+            HeartSystem heartSystem = Object.FindFirstObjectByType<HeartSystem>();
             if (heartSystem != null)
             {
                 heartSystem.LoseHeart();
@@ -17,21 +17,21 @@ public class HeartTest : MonoBehaviour
                 Debug.LogError("No se encontró HeartSystem!");
             }
         }
+
         
-        // Presiona G para ganar un corazón
         if (Input.GetKeyDown(KeyCode.G))
         {
-            HeartSystem heartSystem = FindObjectOfType<HeartSystem>();
+            HeartSystem heartSystem = Object.FindFirstObjectByType<HeartSystem>();
             if (heartSystem != null)
             {
                 heartSystem.GainHeart();
             }
         }
+
         
-        // Presiona R para resetear
         if (Input.GetKeyDown(KeyCode.R))
         {
-            HeartSystem heartSystem = FindObjectOfType<HeartSystem>();
+            HeartSystem heartSystem = Object.FindFirstObjectByType<HeartSystem>();
             if (heartSystem != null)
             {
                 heartSystem.ResetHearts();
@@ -39,3 +39,4 @@ public class HeartTest : MonoBehaviour
         }
     }
 }
+
