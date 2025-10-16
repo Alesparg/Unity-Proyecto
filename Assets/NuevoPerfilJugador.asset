@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4944d973e5b1b864c845c387ca2be6ed, type: 3}
+  m_Script: {fileID: 11500000, guid: 8a50d20ccade75f4eb67c5da3afa3878, type: 3}
   m_Name: NuevoPerfilJugador
   m_EditorClassIdentifier: 
-  experienciaProximoNivel: 10
+  experienciaProximoNivel: 130
   escalarExperiencia: 10
   velocidad: 5
   fuerzaSalto: 5
