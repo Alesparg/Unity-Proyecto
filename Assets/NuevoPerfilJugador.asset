@@ -16,6 +16,6 @@ MonoBehaviour:
   escalarExperiencia: 10
   velocidad: 5
   fuerzaSalto: 5
-  vida: 1
+  vida: -1
   jumpSFX: {fileID: 0}
   collisionSFX: {fileID: 0}
