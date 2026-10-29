@@ -12,7 +12,12 @@ public class GeneradorObjetoLoopWithPool : MonoBehaviour
     [Range(0.5f, 5f)]
     private float tiempoIntervalo;
 
+    [SerializeField]
+    [Min(1)]
+    private int maximoProyectiles = 2;
+
     private ObjectPool objectPool;
+    private readonly List<GameObject> proyectilesActivos = new List<GameObject>();
 
     private void Awake()
     {
@@ -41,6 +46,38 @@ public class GeneradorObjetoLoopWithPool : MonoBehaviour
                 pooledObjComponent = pooledObject.AddComponent<PooledObject>();
             }
             pooledObjComponent.Initialize(objectPool);
+
+            proyectilesActivos.Add(pooledObject);
+        }
+
+        LimitarProyectiles();
+    }
+
+    /// <summary>
+    /// Mantiene vivos como maximo 'maximoProyectiles'. Al salir uno nuevo, el mas antiguo
+    /// se desactiva, y PooledObject.OnDisable lo devuelve al pool automaticamente.
+    /// </summary>
+    private void LimitarProyectiles()
+    {
+        for (int i = proyectilesActivos.Count - 1; i >= 0; i--)
+        {
+            GameObject proyectil = proyectilesActivos[i];
+
+            if (proyectil == null || !proyectil.activeSelf)
+            {
+                proyectilesActivos.RemoveAt(i);
+            }
+        }
+
+        while (proyectilesActivos.Count > maximoProyectiles)
+        {
+            GameObject masAntiguo = proyectilesActivos[0];
+            proyectilesActivos.RemoveAt(0);
+
+            if (masAntiguo != null)
+            {
+                masAntiguo.SetActive(false);
+            }
         }
     }
 }

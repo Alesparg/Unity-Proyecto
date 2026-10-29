@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7867783165228767701}
   - component: {fileID: 4783464871631822167}
   - component: {fileID: 2745003428730263386}
+  - component: {fileID: 5530178894261004821}
   m_Layer: 6
   m_Name: plataforma
   m_TagString: Untagged
@@ -155,7 +156,7 @@ Rigidbody2D:
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
@@ -178,3 +179,20 @@ PlatformEffector2D:
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
+--- !u!114 &5530178894261004821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4822954402480899138}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f9c1b7a4d2e4c8fb1a6d5e0c7b2a941, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eje: 0
+  recorrido: 2
+  duracion: 3
+  desfase: 0
+
