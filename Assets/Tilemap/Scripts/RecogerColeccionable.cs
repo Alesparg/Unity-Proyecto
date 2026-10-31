@@ -2,19 +2,25 @@ using UnityEngine;
 
 public class RecogerColeccionable : MonoBehaviour
 {
-    public static int Recogidos { get; private set; }
+    // El contador ahora vive en el GameManager. Se mantiene el nombre público
+    // "Recogidos" para no romper a quien ya lo consultaba (CartelVictoria).
+    public static int Recogidos => GameManager.Existe ? GameManager.Instance.EstrellasRecogidas : respaldo;
+
+    private static int respaldo;
 
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
     private static void ReiniciarContador()
     {
-        Recogidos = 0;
+        respaldo = 0;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (!collision.gameObject.CompareTag("Player")) { return; }
 
-        Recogidos++;
+        if (GameManager.Existe) { GameManager.Instance.RegistrarEstrella(); }
+        else { respaldo++; }
+
         gameObject.SetActive(false);
     }
 }

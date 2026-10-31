@@ -60,6 +60,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.58f2\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Tilemap\Scripts\HUDContadores.cs" />
     <Compile Include="Assets\Tilemap\Scripts\TimeLineAudioManager.cs" />
     <Compile Include="Assets\Tilemap\Scripts\Jugador.cs" />
     <Compile Include="Assets\Tilemap\Scripts\Coleccionar.cs" />
@@ -74,7 +75,9 @@
     <Compile Include="Assets\Tilemap\Scripts\herir.cs" />
     <Compile Include="Assets\Tilemap\Scripts\RecogerColeccionable.cs" />
     <Compile Include="Assets\Tilemap\Scripts\ParticleHeartDebugger.cs" />
+    <Compile Include="Assets\Tilemap\Scripts\CartelDerrota.cs" />
     <Compile Include="Assets\Tilemap\Scripts\salto.cs" />
+    <Compile Include="Assets\Tilemap\Scripts\GameManager.cs" />
     <Compile Include="Assets\Tilemap\Scripts\player.cs" />
     <Compile Include="Assets\Tilemap\Scripts\HeartSystem.cs" />
     <Compile Include="Assets\Tilemap\Scripts\HeartSystemManager.cs" />
@@ -95,6 +98,7 @@
     <Compile Include="Assets\Tilemap\Scripts\hudcrotroler.cs" />
     <Compile Include="Assets\Tilemap\Scripts\SimpleHeartSetup.cs" />
     <Compile Include="Assets\Tilemap\Scripts\spawners\GeneradorDiaNoche.cs" />
+    <Compile Include="Assets\Tilemap\Scripts\MenuPresentacion.cs" />
     <Compile Include="Assets\Tilemap\Scripts\WorkingHeartSystem.cs" />
     <Compile Include="Assets\Tilemap\Scripts\CartelVictoria.cs" />
     <Compile Include="Assets\Tilemap\Scripts\PatrullaEnemigo.cs" />

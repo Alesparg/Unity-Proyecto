@@ -274,7 +274,8 @@ public class HeartSystemManager : MonoBehaviour
             if (currentHearts <= 0)
             {
                 Debug.Log("💀 ¡GAME OVER!");
-                // Aquí puedes llamar a tu sistema de Game Over
+
+                if (GameManager.Existe) { GameManager.Instance.Perder(); }
             }
         }
         else

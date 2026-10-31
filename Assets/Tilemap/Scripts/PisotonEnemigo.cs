@@ -28,6 +28,9 @@ public class PisotonEnemigo : MonoBehaviour
             jugador.linearVelocity = new Vector2(velocidad.x, fuerzaRebote);
         }
 
+        // Cada enemigo aplastado cuenta como una muerte para el HUD y el cartel de victoria
+        if (GameManager.Existe) { GameManager.Instance.RegistrarEnemigoEliminado(); }
+
         Destroy(gameObject);
     }
 

@@ -13,6 +13,7 @@ public class CartelVictoria : MonoBehaviour
 
     private readonly List<Image> estrellas = new List<Image>();
     private GameObject cartel;
+    private TextMeshProUGUI textoResultado;
     private bool mostrado;
 
     private void Awake()
@@ -28,7 +29,10 @@ public class CartelVictoria : MonoBehaviour
 
         mostrado = true;
         ActualizarEstrellas(RecogerColeccionable.Recogidos);
+        ActualizarResultado();
         cartel.SetActive(true);
+
+        if (GameManager.Existe) { GameManager.Instance.Ganar(); }
     }
 
     public void SalirDelJuego()
@@ -50,6 +54,16 @@ public class CartelVictoria : MonoBehaviour
         }
     }
 
+    private void ActualizarResultado()
+    {
+        if (textoResultado == null) { return; }
+
+        int enemigos = GameManager.Existe ? GameManager.Instance.EnemigosEliminados : 0;
+        string tiempo = GameManager.Existe ? GameManager.Instance.TiempoTranscurridoFormateado() : "--:--";
+
+        textoResultado.text = "Enemigos eliminados: " + enemigos + "\nTiempo: " + tiempo;
+    }
+
     private void CrearCartel()
     {
         Canvas canvas = FindFirstObjectByType<Canvas>();
@@ -67,13 +81,19 @@ public class CartelVictoria : MonoBehaviour
         Estirar(cartel.GetComponent<RectTransform>());
         cartel.GetComponent<Image>().color = colorFondo;
 
-        TextMeshProUGUI texto = CrearTexto(cartel.transform, "TextoVictoria", mensaje, TamanoTituloNitido());
-        Colocar(texto.rectTransform, new Vector2(0f, 150f), new Vector2(1400f, 240f));
+        // Se limita el tamaño para que el mensaje completo quepa a lo ancho de la pantalla
+        float tamanoTitulo = Mathf.Min(TamanoTituloNitido(), 62f);
+
+        TextMeshProUGUI texto = CrearTexto(cartel.transform, "TextoVictoria", mensaje, tamanoTitulo);
+        Colocar(texto.rectTransform, new Vector2(0f, 205f), new Vector2(880f, 90f));
 
         CrearEstrellas(cartel.transform);
 
+        textoResultado = CrearTexto(cartel.transform, "TextoResultado", string.Empty, 32f);
+        Colocar(textoResultado.rectTransform, new Vector2(0f, -50f), new Vector2(760f, 100f));
+
         Button boton = CrearBoton(cartel.transform, "BotonSalir", textoBoton);
-        Colocar(boton.GetComponent<RectTransform>(), new Vector2(0f, -230f), new Vector2(320f, 100f));
+        Colocar(boton.GetComponent<RectTransform>(), new Vector2(0f, -165f), new Vector2(300f, 84f));
 
         boton.onClick.AddListener(SalirDelJuego);
     }
@@ -82,10 +102,10 @@ public class CartelVictoria : MonoBehaviour
     {
         GameObject contenedor = new GameObject("Estrellas", typeof(RectTransform));
         contenedor.transform.SetParent(padre, false);
-        Colocar(contenedor.GetComponent<RectTransform>(), new Vector2(0f, -20f), new Vector2(700f, 170f));
+        Colocar(contenedor.GetComponent<RectTransform>(), new Vector2(0f, 75f), new Vector2(600f, 140f));
 
         Sprite sprite = CrearSpriteEstrella();
-        float separacion = 180f;
+        float separacion = 145f;
 
         for (int i = 0; i < estrellasMaximas; i++)
         {
@@ -96,7 +116,7 @@ public class CartelVictoria : MonoBehaviour
             rt.anchorMin = new Vector2(0.5f, 0.5f);
             rt.anchorMax = new Vector2(0.5f, 0.5f);
             rt.pivot = new Vector2(0.5f, 0.5f);
-            rt.sizeDelta = new Vector2(150f, 150f);
+            rt.sizeDelta = new Vector2(120f, 120f);
             rt.anchoredPosition = new Vector2((i - (estrellasMaximas - 1) * 0.5f) * separacion, 0f);
 
             Image imagen = obj.GetComponent<Image>();
